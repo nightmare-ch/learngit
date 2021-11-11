@@ -1,0 +1,6 @@
+<!--components/tabs/tabs.wxml-->
+<scroll-view class="tabs-box" scroll-x="true">
+  <view wx:for="{{listData}}" wx:key="index" class="tab {{ active === index ? 'active':''}}" bindtap="onItemClick" data-index="{{index}}">
+  {{item.label}}
+  </view>
+</scroll-view>

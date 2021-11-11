@@ -1,0 +1,6 @@
+<view>首页</view>
+<!-- 当点击按钮时，发起 get 请求 -->
+<button type="primary" bindtap="onGetClick">发起 get 请求</button>
+<!-- 当点击按钮时，发起 post 请求 -->
+<button type="primary" bindtap="onPostClick">发起 post 请求</button>
+<button type="primary" bindtap="onAsyncClick">发起请求，用async+await进行简化</button>

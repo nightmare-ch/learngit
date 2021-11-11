@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "tabs":"/components/tabs/tabs",
+    "list":"/components/list/list"
+  }
+  
+}

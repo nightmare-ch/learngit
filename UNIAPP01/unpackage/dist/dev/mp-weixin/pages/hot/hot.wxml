@@ -1,0 +1,1 @@
+<view class="hot-container data-v-41251cbc"><image class="logo _img data-v-41251cbc" src="{{$root.m0}}" alt mode="aspectFit"></image><my-search vue-id="0e4143a4-1" class="data-v-41251cbc" bind:__l="__l"></my-search></view>
